@@ -1,0 +1,12 @@
+C:\C# projects\DevOpsApp\DevOpsApp.Services\bin\Debug\net5.0\DevOpsApp.Services.deps.json
+C:\C# projects\DevOpsApp\DevOpsApp.Services\bin\Debug\net5.0\DevOpsApp.Services.dll
+C:\C# projects\DevOpsApp\DevOpsApp.Services\bin\Debug\net5.0\ref\DevOpsApp.Services.dll
+C:\C# projects\DevOpsApp\DevOpsApp.Services\bin\Debug\net5.0\DevOpsApp.Services.pdb
+C:\C# projects\DevOpsApp\DevOpsApp.Services\obj\Debug\net5.0\DevOpsApp.Services.csproj.AssemblyReference.cache
+C:\C# projects\DevOpsApp\DevOpsApp.Services\obj\Debug\net5.0\DevOpsApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projects\DevOpsApp\DevOpsApp.Services\obj\Debug\net5.0\DevOpsApp.Services.AssemblyInfoInputs.cache
+C:\C# projects\DevOpsApp\DevOpsApp.Services\obj\Debug\net5.0\DevOpsApp.Services.AssemblyInfo.cs
+C:\C# projects\DevOpsApp\DevOpsApp.Services\obj\Debug\net5.0\DevOpsApp.Services.csproj.CoreCompileInputs.cache
+C:\C# projects\DevOpsApp\DevOpsApp.Services\obj\Debug\net5.0\DevOpsApp.Services.dll
+C:\C# projects\DevOpsApp\DevOpsApp.Services\obj\Debug\net5.0\ref\DevOpsApp.Services.dll
+C:\C# projects\DevOpsApp\DevOpsApp.Services\obj\Debug\net5.0\DevOpsApp.Services.pdb
